@@ -6,7 +6,7 @@ Start the server
 $ go run main.go
 ```
 
-Execute this multiple times
+Execute the following
 
 ```bash
 $ curl 'localhost:8000?msg=HelloWorld!'
