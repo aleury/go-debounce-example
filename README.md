@@ -14,7 +14,7 @@ curl 'localhost:8000?msg=HelloWorld!!'
 curl 'localhost:8000?msg=HelloWorld!!!'
 ```
 
-The `msg` query parameter is logged after second between requests has passed.
+The `msg` query parameter is logged after second between requests has past.
 
 ```
 $ go run main.go
